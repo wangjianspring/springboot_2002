@@ -13,6 +13,7 @@ import java.util.Set;
  * TIME: 10:38
  * Company: 侠客岛
  * JDK 1.8
+ * github
  */
 @Entity
 @Table(name = "s_menu")
